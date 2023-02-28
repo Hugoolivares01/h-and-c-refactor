@@ -19,7 +19,7 @@ In order to add this project
 ## Usage
 
 ```md
-![screenshot-1](assets/images/2023-02-27 (6).png)
+![screenshot-1](assets\images\2023-02-27 (6).png)
 ```
 
 ```md

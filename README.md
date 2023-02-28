@@ -18,14 +18,14 @@ In order to add this project
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+```md
+![screenshot-1](assets/images/2023-02-27 (6).png)
+```
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets\images\2023-02-27 (6).png)
-    ```
-![screenshot-1](assets\images\2023-02-27 (6).png)
+```md
+![screenshot-2](assets/images/2023-02-27 (7).png)
+``` 
+**
 ## Credits
 These were the selectors elements i referred to "https://www.w3schools.com/cssref/css_selectors.php"
 
@@ -158,3 +158,6 @@ Mozilla’s code of conduct enforcement ladder.
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
+
+
+[def]: assets\images
